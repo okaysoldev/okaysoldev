@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there this is my new Github account for all things web3.
 
 <!--
 **okaysoldev/okaysoldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
